@@ -7,7 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "httpx>=0.28.0",
     "pydantic>=2.10.0",
-    "pydantic-settings>=2.7.0",
+    "pydantic-settings>=2.13.1",
     "sounddevice>=0.5.0",
     "soundfile>=0.13.0",
     "numpy>=2.0.0",
